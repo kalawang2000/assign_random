@@ -12,7 +12,7 @@ public class randomnumber {
 	Scanner in = new Scanner(System.in); 
 	Random randomGenerator = new Random();
 		
-		do {
+		 do {
 			try {
 				if (flag==true)
 						System.out.print("Wrong input!!! Please enter a positive integer: ");
